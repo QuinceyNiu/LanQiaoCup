@@ -1,2 +1,3 @@
 # LanQiaoCup
-Practicing for LanQiao Cup.
+QuinceyNiu's practice for LanQiao Cup.
+All questions from lanqiao.org.
