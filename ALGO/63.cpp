@@ -7,9 +7,8 @@ int main() {
         for(j = 1; j < i; j++) {
             cout << i << "*" << j << "=" << i*j << " "; 
         }
-        if(i == j) {
+        if(i == j)
             cout << i << "*" << j << "=" << i*j << endl;
-        }
     }
 
     return 0;
